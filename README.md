@@ -22,7 +22,7 @@ This year, I am studying:
 - And more [Bayesian Statistics](https://github.com/BrianSohn/Statistical-Methods-for-Analytics) [Applied Machine Learning](https://github.com/BrianSohn/Applied-Machine-Learning)
 
 ### ⚡ Skills
-- Programming Languages: Python, SQL, SAS, HTML, CSS, Javascript
+- Programming Languages: Python, Spark, SQL, SAS, HTML, CSS, Javascript
 - Data Analytics: Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, Tensorflow, Statsmodels, Nltk, NetworkX, PyMC
 - Web Development: Flask, Django
