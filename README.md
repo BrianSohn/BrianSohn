@@ -6,10 +6,10 @@ I am a rotational associate in the Global Analytics Associate Program (GAAP) at 
 Currently, I work in the Fraud Analytics Model Governance team. 
 
 ### 🌱 Interests
-I am interested in the entire data lifecycle from business analytics to machine learning to data engineering. <br>
+I am interested in various areas across the data lifecycle from business analytics to machine learning. <br>
 This year, I am studying:
 - MLOps
-- Deep Learning
+- Deep Learning Fundamentals
 - NLP 
 - Experimentation
 
