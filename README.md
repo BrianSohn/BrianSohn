@@ -18,6 +18,7 @@ This year, I am studying:
 - Building web applications for data science problems [Iris Website](https://github.com/BrianSohn/iris-website)
 - Building machine learning models [NBA](https://github.com/BrianSohn/MoneyBall_Watson)
 - Data Analytics in [Python](https://github.com/BrianSohn/Data-Analytics) & [Spark](https://github.com/BrianSohn/Analytics-on-the-Cloud) 
+- Building Recommender Systems
 - Storytelling with data
 - Building dashboards
 - And more [Bayesian Statistics](https://github.com/BrianSohn/Statistical-Methods-for-Analytics) [Applied Machine Learning](https://github.com/BrianSohn/Applied-Machine-Learning)
