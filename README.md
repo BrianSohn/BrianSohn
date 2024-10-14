@@ -3,17 +3,18 @@
 
 ### 👨‍💻 Work 
 I am a rotational associate in the Global Analytics Associate Program (GAAP) at Citi. <br>
-Currently, I work in the Fraud Analytics Model Governance team. 
+Currently, I work in developing internal LLM products in the Analytics, Technology, and Innovation (ATI) team. 
 
 ### 🌱 Interests
 I am interested in various areas across the data lifecycle from business analytics to machine learning. <br>
 This year, I am studying:
-- MLOps
 - Deep Learning Fundamentals
 - NLP 
-- Experimentation
+- Generative AI & Large Language Models
+- Data Engineering
 
 ### 🔭 Projects
+- Building web applications using Large Language Models [Resume Chatbot](https://huggingface.co/spaces/briansohn/resume_chatbot)
 - Building web applications for data science problems [Iris Website](https://github.com/BrianSohn/iris-website)
 - Building machine learning models [NBA](https://github.com/BrianSohn/MoneyBall_Watson)
 - Data Analytics in [Python](https://github.com/BrianSohn/Data-Analytics) & [Spark](https://github.com/BrianSohn/Analytics-on-the-Cloud) 
@@ -24,7 +25,8 @@ This year, I am studying:
 ### ⚡ Skills
 - Programming Languages: Python, Spark, SQL, SAS, HTML, CSS, Javascript
 - Data Analytics: Pandas, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn, Tensorflow, Statsmodels, Nltk, NetworkX, PyMC
+- Machine Learning: Scikit-learn, Tensorflow, PyTorch, Statsmodels, Nltk, Gensim, spaCy, NetworkX, PyMC
+- Large Language Models: LangChain
 - Web Development: Flask, Django
 
 ### 📝 Education 
