@@ -3,11 +3,15 @@
 
 ### 👨‍💻 Work 
 I am a rotational associate in the Global Analytics Associate Program (GAAP) at Citi. <br>
-Currently, I work in developing internal LLM products in the Analytics, Technology, and Innovation (ATI) team. 
+Currently, I work in the Branded Cards & Lending Analytics team. <br>
+Previously, I had 2 rotations in Fraud Analytics and in the Analytics, Technology, and Innovation (ATI) team (developing internal LLM products). 
 
 ### 🌱 Interests
 I am interested in various areas across the data lifecycle from business analytics to machine learning. <br>
-This year, I am studying:
+This year, I am studying: 
+- Causal Inference <br>
+
+Last year, I studied:
 - Deep Learning Fundamentals
 - NLP 
 - Generative AI & Large Language Models
@@ -24,7 +28,7 @@ This year, I am studying:
 - And more [Bayesian Statistics](https://github.com/BrianSohn/Statistical-Methods-for-Analytics) [Applied Machine Learning](https://github.com/BrianSohn/Applied-Machine-Learning)
 
 ### ⚡ Skills
-- Programming Languages: Python, Spark, SQL, SAS, HTML, CSS, Javascript
+- Programming Languages: Python, Scala, Spark, SQL, SAS, HTML, CSS, Javascript
 - Data Analytics: Pandas, Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, Tensorflow, PyTorch, Statsmodels, Nltk, Gensim, spaCy, NetworkX, PyMC
 - Large Language Models: LangChain
